@@ -7,3 +7,5 @@
 ## Additionally, the inclusion of real-life success stories and youtube videos demonstrates the diverse paths a person can take to enter the software engineering/ developer field, whether through formal education or self study. The article's emphasis on the continued growth of software engineering roles highlights the long-term career prospects and the increasing demand for software engineers, making it a compelling career choice for those interested in technology.
 
 ## The article also gives what is currently and in the future may be in demand, such as artificial intellegence software engineer and machine learning.
+
+## Comment from Phoebus Yip: I think this article is pretty interesting because it shows that the SWE industry has many fields, I used to think it's mostly fintech and big data but to know that it also is very prevalent is in healthcare and retail makes it easier for me to explain to my parents.
